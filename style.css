@@ -1,0 +1,82 @@
+.side{
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(51, 49, 190);
+    
+
+}
+body{
+    
+    font-family: 'Edu TAS Beginner', cursive;
+    margin: auto;
+}
+.side-1{
+    margin-left: 20px;
+}
+.side-2{
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+.side-2:hover{
+    color: rgb(193, 214, 11);
+}
+.side-3:hover{
+    color: rgb(209, 186, 40);
+    
+}
+.side-3{
+    text-decoration: none;
+    margin-right: 10px;
+    color: black;
+}
+.robot{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+
+}
+.back{
+    background-color: rgb(66, 136, 141);
+    
+
+}
+.back-1{
+    color: white;
+    margin-left: 300px;
+}
+.back-2{
+    color: white;
+    margin-left: 60px;
+    padding: 20px;
+}
+.qqq{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
+.www{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    text-decoration: none;
+    padding: 4px 5px 4px 5px;
+}
+.eee{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 20px;
+    margin: 30px;
+}
+.rrr{
+    text-align: center;
+    background-color: rgb(51, 49, 190);
+    color: white;
+    padding: 20px;
+
+}
+
+
